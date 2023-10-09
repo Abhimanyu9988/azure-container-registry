@@ -23,8 +23,9 @@ cd [YOUR REPO DIRECTORY]
 2️⃣ Launch the Deployment Script
 Kickstart your deployment with:
 
+```
 
-```./run_all.sh```
+./run_all.sh
 
 🔧 Actions
 Deploy: Initializes the Azure CosmosDB NoSQL database and Azure Container Registry. Subsequently, it triggers the Docker image build and pushes the result to the registry.
