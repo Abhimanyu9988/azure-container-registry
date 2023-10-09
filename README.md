@@ -17,8 +17,8 @@ Before you get started, ensure you have the following:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone [YOUR REPO URL HERE]
-cd [YOUR REPO DIRECTORY]
+git clone https://github.com/Abhimanyu9988/azure-container-registry.git
+cd azure-container-registry
 ```
 
 ### 2️⃣ Launch the Deployment Script
